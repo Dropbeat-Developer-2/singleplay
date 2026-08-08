@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1, Test
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://tv.canal86.my.id/emtekhd/stream.m3u8?id=204
